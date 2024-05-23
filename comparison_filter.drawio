@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T08:52:08.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="i8Cz5IIA8ulVZsTUO1P5" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T08:53:10.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6dpPrQDVtlyXOiuvxAiW" version="24.4.4" type="github">
   <diagram name="Página-1" id="lNWNZOjSTIOPe0qiqQtD">
     <mxGraphModel dx="6944" dy="3658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry width="2199.9999999999995" height="110" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MkmN3ePwl4gu_wNji6LK-23" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;Clear Ripple&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#33A64C;strokeWidth=3;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="MkmN3ePwl4gu_wNji6LK-19">
-          <mxGeometry x="209.99999999999994" y="162.3157894736842" width="369.99999999999994" height="96.63157894736841" as="geometry" />
+          <mxGeometry x="199.99999999999994" y="162.3157894736842" width="369.99999999999994" height="96.63157894736841" as="geometry" />
         </mxCell>
         <mxCell id="MkmN3ePwl4gu_wNji6LK-21" value="" style="group" vertex="1" connectable="0" parent="MkmN3ePwl4gu_wNji6LK-19">
-          <mxGeometry x="20" y="258.95" width="2160" height="1728" as="geometry" />
+          <mxGeometry x="10" y="258.95" width="2160" height="1728" as="geometry" />
         </mxCell>
         <mxCell id="MkmN3ePwl4gu_wNji6LK-16" value="" style="group" vertex="1" connectable="0" parent="MkmN3ePwl4gu_wNji6LK-21">
           <mxGeometry x="1440" width="720" height="1728" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry y="432" width="720" height="432" as="geometry" />
         </mxCell>
         <mxCell id="MkmN3ePwl4gu_wNji6LK-25" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;&lt;font color=&quot;#dacb67&quot;&gt;Middle-Clear Ripple&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dacb67;strokeWidth=3;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="MkmN3ePwl4gu_wNji6LK-19">
-          <mxGeometry x="857.5" y="162.32" width="485" height="96.63" as="geometry" />
+          <mxGeometry x="854.5" y="162.32" width="485" height="96.63" as="geometry" />
         </mxCell>
         <mxCell id="MkmN3ePwl4gu_wNji6LK-26" value="&lt;span style=&quot;font-size: 48px;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;No Ripple&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#FF6666;strokeWidth=3;fillColor=none;fontColor=#33A64C;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="MkmN3ePwl4gu_wNji6LK-19">
-          <mxGeometry x="1662" y="162.32" width="330" height="96.63" as="geometry" />
+          <mxGeometry x="1655" y="162.32" width="330" height="96.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
