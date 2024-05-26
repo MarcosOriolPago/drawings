@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T18:25:33.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-yxu6Bg28alr8SedZxKO" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T18:26:10.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hW1BYm0-V5JBNqH4r7s4" version="24.4.8" type="github">
   <diagram name="Página-1" id="MH4aZnzgVyU5nDW7-veY">
     <mxGraphModel dx="12760" dy="7700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-2416.75" y="671.75" width="1848.5" height="369" as="geometry" />
         </mxCell>
         <mxCell id="aWw6TONDqH0d3MfwNBvD-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;strokeWidth=33;fillColor=#0000FF;strokeColor=#0000FF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-2428" y="2495" width="1848.5" height="369" as="geometry" />
+          <mxGeometry x="-2417" y="2495" width="1848.5" height="369" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
