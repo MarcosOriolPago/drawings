@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T18:04:25.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-mw9eEZlaW2F0majfxcq" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T18:04:45.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nYnefMwWqtj9pncjXT-0" version="24.4.8" type="github">
   <diagram name="Página-1" id="ZA1C3tfnIEEL_Sx0iWqL">
     <mxGraphModel dx="3890" dy="1725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-6XBVCZgOrhOzrjzqAuV-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;arcSize=4;" vertex="1" parent="1">
+        <mxCell id="-6XBVCZgOrhOzrjzqAuV-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="-980" y="12" width="1928" height="924" as="geometry" />
         </mxCell>
         <mxCell id="-6XBVCZgOrhOzrjzqAuV-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.researchgate.net/publication/324213864/figure/fig8/AS:611767994560512@1522868264040/Typical-current-voltage-curves-of-memristor-devices-a-unipolar-and-b-bipolar.png;clipPath=inset(0% 0% 6.85% 0%);" vertex="1" parent="1">
