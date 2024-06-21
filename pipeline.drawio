@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T12:32:19.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5J9tRkR6TP5E2b6yXkLn" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T17:42:07.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dil1y1peLeLM2fJxBxyY" version="24.5.5" type="github">
   <diagram name="Página-1" id="XHgv6N78MFHYRkt7Pcte">
-    <mxGraphModel dx="2975" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3842" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,48 @@
             <mxPoint x="-2240" y="850" as="sourcePoint" />
             <mxPoint x="-2160" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1690" y="650" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-113" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-112">
+          <mxGeometry y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-114" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-112">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-112">
+          <mxGeometry y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-116" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61140.png;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-2067" y="745" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2010" y="500" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-118" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-117">
+          <mxGeometry y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-119" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-117">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-120" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-117">
+          <mxGeometry y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2010" y="800" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-122" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-121">
+          <mxGeometry y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-123" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-121">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-124" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/79860-200.png;" vertex="1" parent="bYdD-1KJJlLN-K0Ue7TA-121">
+          <mxGeometry y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bYdD-1KJJlLN-K0Ue7TA-125" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61140.png;" vertex="1" parent="1">
+          <mxGeometry x="-1985" y="750" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
