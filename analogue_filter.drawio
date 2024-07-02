@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T08:44:00.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="j9zbB4_c26NraqHtF52Y" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T08:47:49.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wXFi-5BpG17mKAM7W5MY" version="24.6.4" type="github">
   <diagram name="Página-1" id="vIDls698Jm7dSTSymZYO">
-    <mxGraphModel dx="2296" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2733" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="3170.49" y="171.45000000000005" width="250" height="85.1" as="geometry" />
         </mxCell>
         <mxCell id="bK4I5iJMbdxFuNU16tls-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bandpass_filter_symbol.svg/1280px-Bandpass_filter_symbol.svg.png;" vertex="1" parent="bK4I5iJMbdxFuNU16tls-15">
-          <mxGeometry x="1705" y="-4" width="600" height="360" as="geometry" />
+          <mxGeometry x="1705" y="-3" width="600" height="360" as="geometry" />
         </mxCell>
         <mxCell id="bK4I5iJMbdxFuNU16tls-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;RAW&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bK4I5iJMbdxFuNU16tls-15">
           <mxGeometry x="410" y="550" width="170" height="80" as="geometry" />
